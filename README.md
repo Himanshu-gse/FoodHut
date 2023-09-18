@@ -16,3 +16,4 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
+![FoodHut Website](https://github.com/OptimusHima/FoodHut/assets/72163817/8b1da129-9dee-415d-aa37-c85b79e32189)
